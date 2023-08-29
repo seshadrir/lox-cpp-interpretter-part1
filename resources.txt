@@ -1,0 +1,4 @@
+Integrating the catch2 library for adding unit tests using cmake.
+https://stackoverflow.com/questions/55963115/how-do-i-make-my-cmake-targets-for-catch2-testing-and-project-running-more-exten
+
+The above resource has been tremendously helpful
